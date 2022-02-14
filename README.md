@@ -1,6 +1,6 @@
-# Hi there, I'm Ezra => AKA Ez  
+# Hi there, I'm Ezra => aka Ez  
 
-## I'm a Developer, and Teacher
+## I'm a Developer, Learner, and Teacher
 
 ### Languages and Tools:
 
@@ -9,6 +9,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
