@@ -1,4 +1,4 @@
-# Hi there, I'm Ezra => aka Ez  
+# Hi there, I'm Ezra => Ez  
 
 ## I'm a Skilled Software Engineer | Researcher
 
