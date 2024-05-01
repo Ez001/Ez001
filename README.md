@@ -1,6 +1,6 @@
 # Hi there, I'm Ezra => Ez  
 
-## I'm a Skilled Software Engineer | Researcher
+## I'm a Skilled Software Engineer | Passionate About Others Growth
 
 ### Languages and Tools:
 
